@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arranque_de_Router", "Arranque_de_Router\Arranque_de_Router.csproj", "{1E1B0E12-743A-4BFB-9FBC-E863B40FDB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E1B0E12-743A-4BFB-9FBC-E863B40FDB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1B0E12-743A-4BFB-9FBC-E863B40FDB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1B0E12-743A-4BFB-9FBC-E863B40FDB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1B0E12-743A-4BFB-9FBC-E863B40FDB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2C8DC6-8667-4DE0-98D3-042EF9D5DF42}
+	EndGlobalSection
+EndGlobal
